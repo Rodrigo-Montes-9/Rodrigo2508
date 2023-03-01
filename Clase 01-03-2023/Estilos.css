@@ -1,0 +1,43 @@
+body {
+    
+}
+
+p {
+    background-color: #ff6961;
+}
+
+.parraforojo {
+    background-color: red;
+}
+
+.parrafoazul {
+    background-color: blue;
+}
+
+.parrafopastel {
+    background-color: blueviolet;
+}
+
+.fondoamarillo {
+    background-color: #fdfd96;
+}
+.parrafoSec1{
+    margin-bottom: 0px;
+}
+
+.sectionPrimaria {
+    text-align: justify;
+    font-size: 18px;
+    background-color: aquamarine;
+    margin-top: 18px;
+    margin-bottom: 0px;
+    /*border : 1px solid black;*/
+}
+
+.sectionSecundaria {
+    text-align: left;
+    font-size: 10px;
+    color: aquamarine;
+    border: 2px solid rebeccapurple;
+    margin-top: 0;
+}
