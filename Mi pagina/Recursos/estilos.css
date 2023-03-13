@@ -1,0 +1,49 @@
+@font-face {
+    font-family: Angela_Hasuky;
+    src: url(fuente/Angela\ Hasuky.otf);
+}
+
+@font-face {
+    font-family: Revise-Regular;
+    src: url(fuente/Ravise-Regular.ttf);
+}
+
+p{
+    font-family: 'Angela_Hasuky';
+}
+
+body{
+    background-color: #db5856;
+    padding: 4em;
+    font-family: serif;
+}
+
+.fondoblanco{
+    background-color: violet;
+}
+
+.bordeblanco{
+    border: 20px solid white;
+    border-radius: 10px;
+}
+
+.imagenEstilo{
+    width: 100px;
+    text-align: center;
+}
+
+.textoFooter{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    border-radius: 6px 6px 0px 0px;
+
+}
+
+.parrafoFooter{
+    margin: 0px;
+    font-size: 20px;
+    font-family: Revise-Regular;
+}
